@@ -1,6 +1,6 @@
 # Mosaic-CS340
 
-Mosaic generator that utilizes user tilesets (image collections) to generate a matching input image. Utilizes Python Flask and other python libraries. This was the class project for a CS course. The project involves creating a microservice that generates several mosaics at once. It is structured to link to other microservices of the same design, allowing for the generation of a mosaic that involves choosing the perfect image from thousands of images for each area of the input image. 
+Mosaic generator that utilizes user tilesets (image collections) to generate a matching input image. Incorporates Python Flask and other python libraries. This was the class project for a CS course. The project involves creating a microservice that generates several mosaics at once. It is structured to link to other microservices of the same design, allowing for the generation of a mosaic that involves choosing the perfect image from thousands of images for each area of the input image. 
 
 # Input input
 
